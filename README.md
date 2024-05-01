@@ -1,7 +1,8 @@
 This project is a recreation of the Obys Agency website. It aims to replicate the original site's amazing design and functionality using advanced level Javascript libraries including GSAP, Locomotive, and shery.js
 
 Loader page-
-![Screenshot (100)](https://github.com/Shadyx6/Obys-Agency/assets/140224513/3c2d138e-5a3c-4c52-a6d9-d823699cfe93)
+![Screenshot (99)](https://github.com/Shadyx6/Obys-Agency/assets/140224513/917ef707-d44d-40a4-aa69-6df8ac0a210a)
+
 
 **Features-**
 Interactive animations
